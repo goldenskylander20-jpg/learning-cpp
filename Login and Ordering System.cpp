@@ -12,17 +12,17 @@ int main() {
 	std::cout << "Password: ";
 	std::cin >> passWord;
 
-	if ((userName == "Admin" || userName == "admin") && passWord == "Admin2020") {
+	if ((userName == "Admin" || userName == "admin") && passWord == "Admin2026") {
 
 		std::cout << "\nACCESS Granted!!!\nGood day Admin\n\n";
 	}
 	
-	else if ((userName == "Guest" || userName == "guest") && passWord == "Guest2020") {
+	else if ((userName == "Guest" || userName == "guest") && passWord == "Guest2026") {
 
 		std::cout << "\nACCESS Granted!!!\nGood day Guest\n\n";
 	}
 
-	else if ((userName == "Secretary" || userName == "secretary") && passWord == "Sec2020") {
+	else if ((userName == "Secretary" || userName == "secretary") && passWord == "Sec2026") {
 
 		std::cout << "\nACCESS Granted!!!\nGood day Secretary\n\n";
 	}
