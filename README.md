@@ -1,6 +1,6 @@
 # learning-cpp
 
-# 🛒 My C++ Learning Journey (USLS)
+#  My C++ Learning Journey (USLS)
 
 Hi! I am a first-year Computer Science student at the **University of St. La Salle (USLS)**, taking the Analytics Intelligence track. 
 
@@ -10,7 +10,7 @@ My long-term dream is to become an AI Engineer and work internationally in tech 
 
 What's Inside?
 
-### 1. Login and Ordering System (`Login and Ordering System.cpp`)
+### 1. 🛒 Login and Ordering System (`Login and Ordering System.cpp`)
 - **What it does:** It asks you to log in as an Admin, Guest, or Secretary. Once authorized, it opens up a restaurant menu where you can order food, desserts, or drinks, select a quantity, and calculate your exact cash change.
 - **What I learned:** I mastered using nested `if-else` statements for credential checking and `switch` cases to map out multi-option user menus.
 
@@ -24,6 +24,6 @@ What's Inside?
 
 ---
 
-## 🚀 Good Habits I'm Practicing
+##  Good Habits I'm Practicing
 - **Explicit Scoping (`std::`):** I completely removed `using namespace std;` from my programs. Writing out `std::cout` and `std::cin` directly helps me avoid namespace conflicts and builds better industry-standard habits.
 - **Independent Reading:** I am actively reading ahead on *LearnCpp.com* (currently exploring Chapter 2 on functions and forward declarations) to push my programming skills past basic classroom limits.
