@@ -11,8 +11,8 @@ std::string fruit(std::string color, std::string texture, int cm) {
 	else if ((color == "green" || color == "Green") && texture == "smooth" && cm >= 5 && cm <= 10) {
 		return "green apple";
 	}
-	else if ((color == "yellow" || color == "Yellow") && texture == "smooth" && cm >= 5 && cm <= 30) {
-		return "mango";
+	else if ((color == "yellow" || color == "Yellow") && texture == "smooth" && cm >= 15 && cm <= 20) {
+		return "banana";
 	}
 	else if ((color == "blue" || color == "Blue") && texture == "smooth" && cm >= 1 && cm <= 2) {
 		return "blueberry";
@@ -28,8 +28,8 @@ std::string fruit(std::string color, std::string texture, int cm) {
 		return "orange";
 	}
 
-	else if ((color == "yellow" || color == "Yellow") && texture == "smooth" && cm >= 15 && cm <= 20) {
-		return "banana";
+	else if ((color == "yellow" || color == "Yellow") && texture == "smooth" && cm >= 5 && cm <= 30) {
+		return "mango";
 	}
 
 	else { return "I dont know what that is"; }
