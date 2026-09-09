@@ -1,5 +1,3 @@
-# learning-cpp
-
 #  My C++ Learning Journey (USLS)
 
 Hi! I am a first-year Computer Science student at the **University of St. La Salle (USLS)**, taking the Analytics Intelligence track. 
