@@ -14,11 +14,11 @@ What's Inside?
 - **What it does:** It asks you to log in as an Admin, Guest, or Secretary. Once authorized, it opens up a restaurant menu where you can order food, desserts, or drinks, select a quantity, and calculate your exact cash change.
 - **What I learned:** I mastered using nested `if-else` statements for credential checking and `switch` cases to map out multi-option user menus.
 
-### 2. Rock-Paper-Scissors Game (`rock paper scissor.cpp`)
+### 2. 👊✌️✋ Rock-Paper-Scissors Game (`rock paper scissor.cpp`)
 - **What it does:** A 2-player console game where players type Rock, Paper, or Scissor, and the program uses logical checks to announce the winner.
 - **What I learned:** This was my very first time creating a custom function outside of `main()`. I learned how to pass variables as parameters into a function and return a string result.
 
-### 3. Fruit Classifier (`fruit classifier.cpp`)
+### 3. 🍎 Fruit Classifier (`fruit classifier.cpp`)
 - **What it does:** The program asks you for a fruit's color, texture, and size in centimeters, and uses a logic tree to guess exactly what fruit you are thinking of.
 - **What I learned:** I practiced using the `&&` (AND) and `||` (OR) operators together. I also learned how to order my `else if` conditions correctly so narrow size ranges (like a Banana) don't get blocked by wider size ranges (like a Mango).
 
